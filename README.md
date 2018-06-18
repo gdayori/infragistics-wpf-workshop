@@ -31,3 +31,11 @@ Note that there's After folder which contains the expected project when you comp
 3. [Section 3 - Create Self-BI UI with Pivot controls](docs/03-Create-Self-BI-UI-with-Pivot-controls/03-00-Overview-of-Section3.md)
     1. [Use FlatDataSource](docs/03-Create-Self-BI-UI-with-Pivot-controls/03-01-Use-FlatDataSource.md)
     2. [Use Pivot Controls](docs/03-Create-Self-BI-UI-with-Pivot-controls/03-02-Use-Pivot-Controls.md)
+
+## What you create through this workshop.
+
+![](../assets/01-02-01.png)
+
+![](../assets/02-06-07.png)
+
+![](../assets/03-02-01.png)
