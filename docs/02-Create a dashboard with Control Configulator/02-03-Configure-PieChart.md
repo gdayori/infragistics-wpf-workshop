@@ -67,4 +67,4 @@ Of cause you can change properties directly by modifying XAML code instead of us
 Getting Started](https://www.infragistics.com/help/wpf/piechart-getting-started-with-piechart)
 
 ## Next
-[03-Serviceの追加と利用](03-Serviceの追加と利用.md)
+[02-04 Configure BulletGraph](02-04-Configure-BulletGraph.md)

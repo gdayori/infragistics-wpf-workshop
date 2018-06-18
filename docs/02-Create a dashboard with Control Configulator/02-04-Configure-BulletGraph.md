@@ -72,4 +72,4 @@ If you want to learn more about XamBulletGraph, check the help topic here.
 [Adding Bullet Graph](https://www.infragistics.com/help/wpf/bulletgraph-adding)
 
 ## Next
-[03-Serviceの追加と利用](03-Serviceの追加と利用.md)
+[02-05 Configure Grid](02-05-Configure-Grid.md)

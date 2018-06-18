@@ -84,4 +84,4 @@ Infragistics WPF contains another nice layout control named XamDockManager which
 
 
 ## Next
-[03-Serviceの追加と利用](03-Serviceの追加と利用.md)
+[02-03 Configure PieChart](02-03-Configure-PieChart.md)

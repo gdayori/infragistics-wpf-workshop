@@ -25,4 +25,4 @@ Open Dashboard.xaml and check what's in the class.
 [Getting Started with Control Configurators](https://www.infragistics.com/help/wpf/getting-started-with-control-configurators)
 
 ## Next
-[03-Serviceの追加と利用](03-Serviceの追加と利用.md)
+[02-02 Layout screen with XamTileManager](02-02-Layout-screen-with-XamTileManager.md)
