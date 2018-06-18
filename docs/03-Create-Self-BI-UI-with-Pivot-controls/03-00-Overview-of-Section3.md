@@ -4,8 +4,11 @@ In this section, you can learn how to use Infragistics Pivot controls. You quick
 
 ## Steps
 1. [Use FlatDataSource](03-01-Use-FlatDataSource.md)
-3. [Use Pivot Controls](03-02-Use-Pivot-Controls.md)
+2. [Use Pivot Controls](03-02-Use-Pivot-Controls.md)
 
-## Expected result
+## What you build in this section
 
 ![](../assets/03-02-01.png)
+
+## Next
+[03-01 Use FlatDataSource](03-01-Use-FlatDataSource.md)

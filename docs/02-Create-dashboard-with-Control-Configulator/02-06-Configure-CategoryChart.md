@@ -72,4 +72,4 @@ XamCategoryChart is a hi-performance chart which is simple and easy to use, but 
 [Getting Started with XamDataChart](https://www.infragistics.com/help/wpf/datachart-getting-started-with-datachart)
 
 ## Next
-[Overview of Section1](../03-Create-Self-BI-UI-with-Pivot-controls/01-00-Overview-of-Section3.md)
+[Overview of Section3](../03-Create-Self-BI-UI-with-Pivot-controls/03-00-Overview-of-Section3.md)

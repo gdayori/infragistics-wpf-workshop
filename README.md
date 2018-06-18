@@ -2,30 +2,26 @@
 
 ## About this workshop
 
-This workshop is for those who want to try IgniteUI for Angular or who are looking for rich and fast UI components, e.g. grid and chart, which can be used in Angular app. You can experience how to build Angular app with Ignite UI for Angular and its productivity through this workshop.
+This workshop is for those who want to try Infragistics products in WPF application development or who are looking for rich and fast WPF UI controls, e.g. grid and chart. You can experience how to build WPF app with Infragistics WPF controls and Control Configulator and see its productivity through this workshop.
 
-1. Generate Angular app with IgniteUI for Angular by using igniteui-cli
-2. Display Customers table got from Northwind Web Service on a grid 
-    1. Component
-    2. Service
-    3. Dipendency Injection
-    4. HTTP request
-    5. RxJs (Observable)
-3. Ignite UI for Angular について
-    1. 基本的な部品の利用方法
-    2. 利用UI部品
-        1. igx-grid
-        2. igx-navbar
+## Check your environment
 
-## Build/Check Environment
+Before starting this hands-on workshop please check your environment to see if it's ready.
 
-[Environment - getting started with igniteui-cli](docs/00-環境構築.md)
+[Required Environment](docs/00-Environment.md)
 
-## 目次
-0. [環境構築](docs/00-環境構築.md)
-1. [Angularプロジェクトの作成とIgniteUIのインポート](docs/01-Angularプロジェクトの作成とIgniteUIのインポート.md)
-2. [Componentの追加](docs/02-Componentの追加.md)
-3. [Serviceの追加と利用](docs/03-Serviceの追加と利用.md)
-4. [APIからテーブル一覧を取得](docs/04-APIからテーブル一覧を取得.md)
-5. [API からテーブルデータを取得](docs/05-APIからテーブルデータを取得.md)
-6. [igx-gridを利用して高機能グリッドを表示](docs/06-igx-gridを利用して高機能グリッドを表示.md)
+## All steps
+
+1. [Section 1 - Get started with Infragistics grid control](docs/01-Use-Infragistics-Grid-control/01-00-Overview-of-Section1.md)
+    1. [Get started with XamDataGrid](docs/01-Use-Infragistics-Grid-control/01-01-Get-started-with-XamDataGrid.md)
+    2. [Configure XamDataGrid](docs/01-Use-Infragistics-Grid-control/01-02-Configure-XamDataGrid.md)
+2. [Section 2 - Create a dashboard with-Control Configulator](docs/02-Create-dashboard-with-Control-Configulator/02-00-Overview-of-Section2.md)
+    1. [Install Control Configulator](docs/02-Create-dashboard-with-Control-Configulator/02-01-Install-Control-Configulator.md)
+    2. [Layout screen with XamTileManager](docs/02-Create-dashboard-with-Control-Configulator/02-02-Layout-screen-with-XamTileManager.md)
+    3. [Configure PieChart](docs/02-Create-dashboard-with-Control-Configulator/02-03-Configure-PieChart.md)
+    4. [Configure BulletGraph](docs/02-Create-dashboard-with-Control-Configulator/02-04-Configure-BulletGraph.md)
+    5. [Configure Grid](docs/02-Create-dashboard-with-Control-Configulator/02-05-Configure-Grid.md)
+    6. [Configure CategoryChart](docs/02-Create-dashboard-with-Control-Configulator/02-06-Configure-CategoryChart.md)
+3. [Section 3 - Create Self-BI UI with Pivot controls](docs/03-Create-Self-BI-UI-with-Pivot-controls/03-00-Overview-of-Section3.md)
+    1. [Use FlatDataSource](docs/03-Create-Self-BI-UI-with-Pivot-controls/03-01-Use-FlatDataSource.md)
+    2. [Use Pivot Controls](03-02-Use-Pivot-Controls.md)

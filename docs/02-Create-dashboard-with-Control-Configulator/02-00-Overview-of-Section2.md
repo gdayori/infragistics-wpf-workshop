@@ -10,7 +10,7 @@ In this section, you can learn how to Infragistics Control Configulator and even
 5. [Configure Grid](02-05-Configure-Grid.md)
 6. [Configure CategoryChart](02-06-Configure-CategoryChart.md)
 
-## Expected result
+## What you build in this section
 
 ![](../assets/02-06-07.png)
 
