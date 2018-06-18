@@ -9,3 +9,7 @@ In this section, you can learn how to use Infragistics WPF control and how to ge
 ## What you build in this section
 
 ![](../assets/01-02-01.png)
+
+## Next
+
+[Get started with XamDataGrid](01-01-Get-started-with-XamDataGrid.md)
