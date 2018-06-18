@@ -10,6 +10,12 @@ Before starting this hands-on workshop please check your environment to see if i
 
 [Required Environment](docs/00-Environment.md)
 
+## Application for the workshop
+
+Download the copy of this repository and find infragistics-wpf-workshop/src/before/IgWpfWorkshop which would be the start point of the workshop. This project has all Models and ViewModels required in the workshop but the views have empty so that you can focus on creating views with Infragistics products. Please open it with Visual Studio and build to see if it can work on your PC.
+
+Note that there's After folder which contains the expected project when you completed all instructions, Section 1 to Section 3.
+
 ## All steps
 
 1. [Section 1 - Get started with Infragistics grid control](docs/01-Use-Infragistics-Grid-control/01-00-Overview-of-Section1.md)
