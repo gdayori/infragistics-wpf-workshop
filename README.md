@@ -33,11 +33,11 @@ Note that there's After folder which contains the expected project when you comp
     2. [Use Pivot Controls](docs/03-Create-Self-BI-UI-with-Pivot-controls/03-02-Use-Pivot-Controls.md)
 
 ## What you create through this workshop.
-
+Section 1 - Get started with Infragistics grid control
 ![](docs/assets/01-02-01.png)
 
-
+Section 2 - Create a dashboard with-Control Configulator
 ![](docs/assets/02-06-07.png)
 
-
+Section 3 - Create Self-BI UI with Pivot controls
 ![](docs/assets/03-02-01.png)
