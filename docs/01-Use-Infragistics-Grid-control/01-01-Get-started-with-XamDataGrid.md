@@ -2,6 +2,8 @@
 
 If you have installed Infragistics WPF controls, all controls should be ready in the Toolbox in your Visual Studio. You can use them just like you develop with Common WPF Controls.
 
+Please open the project in "before" folder you downloaded, which is in infragistics-wpf-workshop/src/before.
+
 ## Check MainWindowViewModel.cs
 
 Open MainWindowViewModel.cs and check what's in the class.
