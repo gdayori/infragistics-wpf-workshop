@@ -1,4 +1,4 @@
-# Generate Angular project with igniteui-cli
+# Create Dashboard with Control Configurator
 
 In this section, you can learn how to Infragistics Control Configulator and eventually make a rich dashboard with some Infragistics WPF controls in Dashboard.xaml.
 
