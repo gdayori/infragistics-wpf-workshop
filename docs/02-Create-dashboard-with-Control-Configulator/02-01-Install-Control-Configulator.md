@@ -20,7 +20,7 @@ Open the project with Visual Studio again and check the configulator is installe
 
 ## Note
 
-Open Dashboard.xaml and check what's in the class.
+You can learn more about Infragistics Control Configurator from the below link.
 
 [Getting Started with Control Configurators](https://www.infragistics.com/help/wpf/getting-started-with-control-configurators)
 
