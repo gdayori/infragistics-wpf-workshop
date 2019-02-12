@@ -1,4 +1,4 @@
-# Ignite UI for Angular hands-on workshop
+# Infragistics WPF hands-on workshop
 
 ## About this workshop
 
